@@ -1,0 +1,276 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24LC32A
+D 32K I2C™ Serial EEPROM 2.5 -> 5.5V
+$ENDCMP
+#
+$CMP AD5293
+D 1024-Position Digital Potentiometer
+$ENDCMP
+#
+$CMP ADA4522-2
+D 55V dual channel, zero drift op amp 
+$ENDCMP
+#
+$CMP ATL431
+D 2.5V Low Iq Adjustable Precision Shunt Regulator
+$ENDCMP
+#
+$CMP AUIPS71451G
+D 1 Channel High Side Driver
+$ENDCMP
+#
+$CMP B360A
+D Schottky Barrier Rectifier Diode 60 V, 3 A, DO-214AC, 700 mV
+$ENDCMP
+#
+$CMP BAS-21
+D General purpose diodes 200V 200mA
+$ENDCMP
+#
+$CMP CM_CHOKE
+D Common mode choke
+$ENDCMP
+#
+$CMP DAC161S055
+D DAC161S055 Precision 16-Bit, Buffered Voltage-Output DAC
+$ENDCMP
+#
+$CMP DAC161S997
+D DAC161S997 16-Bit SPI-Programmable DAC for 4-20 mA Loops
+$ENDCMP
+#
+$CMP Diode_x2_Serial_ACK
+D Double diode Shottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+$CMP L3GD20H
+D  three-axis digital output gyroscope
+$ENDCMP
+#
+$CMP LIS3DH
+D 16G three axes linear accelerometer
+$ENDCMP
+#
+$CMP LM193
+D Dual Differential Comparator - 36V
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP LM25011
+D 42V, 2A  Switching Regulator With Adjustable Current Limit
+$ENDCMP
+#
+$CMP LM2902N
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM293
+D Dual Voltage Comparator
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP LM324
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM324AN
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM324N
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM393
+D Dual Voltage Comparator
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP LM675
+D LM675 3A Power Operational Amplifier
+F http://www.ti.com/lit/ds/symlink/lm675.pdf
+$ENDCMP
+#
+$CMP LM7322
+D Dual Rail-to-Rail Input and Output ±15V or 32V
+F http://www.ti.com/lit/ds/symlink/lm7322.pdf
+$ENDCMP
+#
+$CMP LMR14030
+D 40V, 3.5A SIMPLE SWITCHER, 2.2MHz Step-Down Regulator
+$ENDCMP
+#
+$CMP LMR64010
+D 40Vout, 1A Step-Up Voltage Regulator
+$ENDCMP
+#
+$CMP LMV331
+D Voltage Comparator
+K comp
+$ENDCMP
+#
+$CMP LT1011
+D general purpose comparator 
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP MCP2551
+D 5V CAN Bus Transceiver
+$ENDCMP
+#
+$CMP MCP41X2
+D 7/8-Bit Single/Dual SPI Digital POT with Volatile Memory
+$ENDCMP
+#
+$CMP MCP6G01
+D 110 µA Selectable Gain Amplifier - SOT-23-5
+$ENDCMP
+#
+$CMP MMCX
+D MMCX RF connector
+$ENDCMP
+#
+$CMP MRF24J40Mx
+D 2.4 GHz RF Transceiver Module 802.15.4
+$ENDCMP
+#
+$CMP OUTPUT_SUPPLY
+K POWER, PWR
+$ENDCMP
+#
+$CMP PDS760
+D DIODE SCHOTTKY 60V 7A POWERDI5
+$ENDCMP
+#
+$CMP PESD2CAN
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
+$CMP PIEZO
+D MURATA PKMCS SERIES
+$ENDCMP
+#
+$CMP PSSI2021SAY
+D PSSI2021SAY - Constant current source in SOT353 package
+$ENDCMP
+#
+$CMP PTC
+D VARISTANCE
+K VR  DEV
+$ENDCMP
+#
+$CMP PUSBM30VX4-TL
+D TVS - USB OTG ESD protection diode array, 4 channel
+$ENDCMP
+#
+$CMP RBO40-40
+D REVERSED BATTERY AND OVERVOLTAGE PROTECTION
+$ENDCMP
+#
+$CMP REF2912
+D 1.25V CMOS VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP REF291xx
+D CMOS VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP REF2920
+D 2.048V CMOS VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP RF430CL330H
+D Dynamic NFC Interface Transponder - TAG TYPE 4
+$ENDCMP
+#
+$CMP RN4020
+D Bluetooth 4.1 Low Energy Module
+$ENDCMP
+#
+$CMP SN65HVD230
+D 3.3-V CAN Bus Transceiver
+$ENDCMP
+#
+$CMP TL074
+D Quad Op amp. Mos
+K AmpliOp Mos
+$ENDCMP
+#
+$CMP TL431
+D 2.5-V  Adjustable Precision Shunt Regulator
+$ENDCMP
+#
+$CMP TLC272A
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP TLC274
+D Quad Op amp. Mos
+K AmpliOp Mos
+$ENDCMP
+#
+$CMP TLV1117LV33
+D 1-A, 3.3V Fixed-Voltage LDO SOT223
+$ENDCMP
+#
+$CMP TLV117LV33
+D 1-A, 3.3V Fixed-Voltage LDO SOT223
+$ENDCMP
+#
+$CMP TLV3011
+D 1V8 Comparator with Voltage Reference
+$ENDCMP
+#
+$CMP TPS55340
+D TPS55340 Integrated 5-A Wide Input Range Boost/SEPIC/Flyback DC-DC Regulator
+F http://www.ti.com/lit/ds/symlink/tps55340.pdf
+$ENDCMP
+#
+$CMP TPS61040
+D  DC/DC BOOST CONVERTER 400mA 
+$ENDCMP
+#
+$CMP TPS63030
+D BUCK-BOOST CONVERTER ADJ OUT 0.5V REF
+$ENDCMP
+#
+$CMP TPS63031
+D BUCK-BOOST CONVERTER - 3V3 OUT
+$ENDCMP
+#
+$CMP TPS65090A
+D PMIC with Switchmode Charger for 2-3 Cells In Series
+$ENDCMP
+#
+$CMP ZENER
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+$CMP ZENER-SMD
+D SOT-23 Zener diode 250mW
+K DEV DIODE
+$ENDCMP
+#
+$CMP bq25060
+D Single Cell Li-Ion Battery Charger
+$ENDCMP
+#
+#End Doc Library

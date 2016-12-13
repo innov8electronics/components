@@ -1,0 +1,68 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP B360A
+D Schottky Barrier Rectifier Diode 60 V, 3 A, DO-214AC, 700 mV
+$ENDCMP
+#
+$CMP BAS-21
+D General purpose diodes 200V 200mA
+$ENDCMP
+#
+$CMP BAS40-06
+D Dual Small Signal Schottky Diodes Common Anode 40V
+$ENDCMP
+#
+$CMP CD143A-SR70
+D CD143A-SR70 – Steering Diode Array Series 70V
+$ENDCMP
+#
+$CMP EMI2121
+D TVS - USB 2.0 with CM filter
+$ENDCMP
+#
+$CMP LTST-C19HE1WT
+D Common Anode RGB LED 0606 (1616 Metric)
+K RGB LED
+$ENDCMP
+#
+$CMP NTS260SF
+D TRENCH SCHOTTKY 60V 2A SOD-123FL
+$ENDCMP
+#
+$CMP PDS760
+D DIODE SCHOTTKY 60V 7A POWERDI5
+$ENDCMP
+#
+$CMP PESD2CAN
+D Transient voltage suppressor diode (bi-directional)
+K DEV TVS TRANSIENT SUPPROESSOR ESD
+$ENDCMP
+#
+$CMP PUSBM30VX4-TL
+D TVS - USB OTG ESD protection diode array, 4 channel
+$ENDCMP
+#
+$CMP RBO40-40
+D REVERSED BATTERY AND OVERVOLTAGE PROTECTION
+$ENDCMP
+#
+$CMP SS16
+D Surface Mount Schottky Barrier Rectifier  DO-214AC (SMA)
+$ENDCMP
+#
+$CMP ZENER
+D Diode zener
+K DEV DIODE
+$ENDCMP
+#
+$CMP ZENER-MM3ZxxxT1G
+D SOD-323 Zener diode 300mW
+K DEV DIODE
+$ENDCMP
+#
+$CMP ZENER-SMD
+D SOT-23 Zener diode 250mW
+K DEV DIODE
+$ENDCMP
+#
+#End Doc Library

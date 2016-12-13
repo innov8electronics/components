@@ -1,0 +1,103 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADA4522-2
+D 55V dual channel, zero drift op amp 
+$ENDCMP
+#
+$CMP LM193
+D Dual Differential Comparator - 36V
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP LM2902N
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM293
+D Dual Voltage Comparator
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP LM324
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM324AN
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM324N
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP LM393
+D Dual Voltage Comparator
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP LM675
+D LM675 3A Power Operational Amplifier
+F http://www.ti.com/lit/ds/symlink/lm675.pdf
+$ENDCMP
+#
+$CMP LM7322
+D Dual Rail-to-Rail Input and Output ±15V or 32V
+F http://www.ti.com/lit/ds/symlink/lm7322.pdf
+$ENDCMP
+#
+$CMP LMV331
+D Voltage Comparator
+K comp
+$ENDCMP
+#
+$CMP LT1011
+D general purpose comparator 
+K Comp
+F ns/lm193.pdf
+$ENDCMP
+#
+$CMP MCP6G01
+D 110 µA Selectable Gain Amplifier - SOT-23-5
+$ENDCMP
+#
+$CMP MCP6S91
+D Single-Ended, Rail-to-Rail I/O, Low-Gain PGA +1, +2, +4, +5, +8, +10, +16 or +32 V/V
+$ENDCMP
+#
+$CMP NAU8814
+D Audio Codec Mono with 1W Speaker Driver
+F https://www.nuvoton.com/resource-files/NAU8814%20Datasheet%20Rev%202.0.pdf
+$ENDCMP
+#
+$CMP TL074
+D Quad Op amp. Mos
+K AmpliOp Mos
+$ENDCMP
+#
+$CMP TLC272A
+D Quad Op amp.
+K AmpliOp
+F op_amps/lm324.pdf
+$ENDCMP
+#
+$CMP TLC274
+D Quad Op amp. Mos
+K AmpliOp Mos
+$ENDCMP
+#
+$CMP TLV3011
+D 1V8 Comparator with Voltage Reference
+$ENDCMP
+#
+#End Doc Library

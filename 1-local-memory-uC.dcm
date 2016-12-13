@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 24AA256UID
+D 256K I2C Serial EEPROM with EUI-48, EUI-64 and Unique 32-Bit Serial Number
+$ENDCMP
+#
+$CMP AT24CM02
+D I2C- EEPROM 2-Mbit (262,144 x 8)
+$ENDCMP
+#
+$CMP FM24CL16B
+D 16-Kbit (2 K × 8) Serial (I2C) F-RAM
+$ENDCMP
+#
+$CMP IS45S32X00X
+D SDRAM 1Meg X 32bit X 4Banks-  90-ball TF-BGA
+$ENDCMP
+#
+#End Doc Library

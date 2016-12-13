@@ -1,0 +1,36 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BGA725L6
+D GNSS Low Noise Amp 20dB 1.5 to 3.6V
+F http://www.infineon.com/dgdl/BGA725L6_V2+0.pdf?folderId=db3a30431f848401011fcbf2ab4c04c4&fileId=db3a30433784a0400137ef9a4d341f23
+$ENDCMP
+#
+$CMP MRF24J40Mx
+D 2.4 GHz RF Transceiver Module 802.15.4
+$ENDCMP
+#
+$CMP PN512
+D PN512 - NFC frontend 
+$ENDCMP
+#
+$CMP PN532
+D PN5321A3HN: NFC integrated solution
+$ENDCMP
+#
+$CMP QUECTEL-UC20
+D UC20 UMTS/HSPA Module with GNSS
+$ENDCMP
+#
+$CMP QUECTEL-UC20_EC20
+D UC20 UMTS/HSPA Module with GNSS
+$ENDCMP
+#
+$CMP RF430CL330H
+D Dynamic NFC Interface Transponder - TAG TYPE 4
+$ENDCMP
+#
+$CMP RN4020
+D Bluetooth 4.1 Low Energy Module
+$ENDCMP
+#
+#End Doc Library

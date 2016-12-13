@@ -1,0 +1,128 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATL431
+D 2.5V Low Iq Adjustable Precision Shunt Regulator
+$ENDCMP
+#
+$CMP L7987
+D 61 V 3 A asynchronous step-down SMPS
+$ENDCMP
+#
+$CMP LD39050
+D 500mA LDO
+$ENDCMP
+#
+$CMP LD39050PUxxR
+D 500mA FIXED OUTPUT LDO
+$ENDCMP
+#
+$CMP LM25011
+D 42V, 2A  Switching Regulator With Adjustable Current Limit
+$ENDCMP
+#
+$CMP LM4040
+D LM4040 VOLTAGE REFERENCE 2v048, 2V5, 3V, 4.096 or 5V
+$ENDCMP
+#
+$CMP LMR14030
+D 40V, 3.5A SIMPLE SWITCHER, 2.2MHz Step-Down Regulator
+$ENDCMP
+#
+$CMP LMR64010
+D 40Vout, 1A Step-Up Voltage Regulator
+$ENDCMP
+#
+$CMP MCP1642X
+D 1.8A Input Current Switch, 1 MHz Low-Voltage Start-Up Synchronous Boost Regulator
+$ENDCMP
+#
+$CMP MCP1827-ADJ
+D 1.5A, Adjustable Output LDO Regulator  0.8V to 5.0V 
+$ENDCMP
+#
+$CMP MCP1827S
+D 1.5A LDO - Fixed Output - 0.8V, 1.2V, 1.8V, 2.5V, 3.0V, 3.3V, 5.0V
+$ENDCMP
+#
+$CMP MCP73833
+D Single Cell Linear Li-Ion Charger 1A max. 6Vin max.
+$ENDCMP
+#
+$CMP MIC5353-xxYMT
+D LDO 500mA - 2.6 to 6 Vin - 160mV dropout
+$ENDCMP
+#
+$CMP MIC5377
+D 150 mA ADJUSTABLE LDOs with Shutdown 120mV dropout
+$ENDCMP
+#
+$CMP REF2912
+D 1.25V CMOS VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP REF291xx
+D CMOS VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP REF2920
+D 2.048V CMOS VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP REF2930
+D 3.0V CMOS VOLTAGE REFERENCE
+$ENDCMP
+#
+$CMP TC1015
+D 100 mA CMOS LDOs with Shutdown and Reference Bypass
+$ENDCMP
+#
+$CMP TL431
+D 2.5-V  Adjustable Precision Shunt Regulator
+$ENDCMP
+#
+$CMP TLV1117LV33
+D 1-A, 3.3V Fixed-Voltage LDO SOT223
+$ENDCMP
+#
+$CMP TPS55340
+D TPS55340 Integrated 5-A Wide Input Range Boost/SEPIC/Flyback DC-DC Regulator
+F http://www.ti.com/lit/ds/symlink/tps55340.pdf
+$ENDCMP
+#
+$CMP TPS61040
+D  DC/DC BOOST CONVERTER 400mA 
+$ENDCMP
+#
+$CMP TPS63030
+D BUCK-BOOST CONVERTER ADJ OUT 0.5V REF
+$ENDCMP
+#
+$CMP TPS63031
+D BUCK-BOOST CONVERTER - 3V3 OUT
+$ENDCMP
+#
+$CMP TPS65090A
+D PMIC with Switchmode Charger for 2-3 Cells In Series
+$ENDCMP
+#
+$CMP TPS73733DCQ
+D 3.3Vout, 1Aout LDO 2.2V to 5.5V, 130mV Dropout SOT-223-6
+$ENDCMP
+#
+$CMP VND5025AK-E
+D Double channel high side driver 41Amp
+$ENDCMP
+#
+$CMP bq24073
+D Single Cell Li-Ion Battery Charger 1.5A
+$ENDCMP
+#
+$CMP bq24075
+D Single Cell Li-Ion Battery Charger 1.5A
+$ENDCMP
+#
+$CMP bq25060
+D Single Cell Li-Ion Battery Charger
+$ENDCMP
+#
+#End Doc Library

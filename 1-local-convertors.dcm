@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD5293
+D 1024-Position Digital Potentiometer
+$ENDCMP
+#
+$CMP DAC161S055
+D DAC161S055 Precision 16-Bit, Buffered Voltage-Output DAC
+$ENDCMP
+#
+$CMP DAC161S997
+D DAC161S997 16-Bit SPI-Programmable DAC for 4-20 mA Loops
+$ENDCMP
+#
+$CMP DAC8760
+D 16-Bit Programmable Current & Voltage Output DAC  for 4-mA to 20-mA Current Loop Applications
+F http://www.ti.com/lit/ds/symlink/dac8760.pdf
+$ENDCMP
+#
+$CMP MCP41X2
+D 7/8-Bit Single/Dual SPI Digital POT with Volatile Memory
+$ENDCMP
+#
+#End Doc Library

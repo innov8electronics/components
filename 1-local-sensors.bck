@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L3GD20H
+D 3-axis digital output gyroscope - full scale of ±245/±500/±2000 dps
+$ENDCMP
+#
+$CMP LIS3DH
+D 3 axes linear accelerometer ±2g/±4g/±8g/±16g
+$ENDCMP
+#
+$CMP MMA8453Q
+D MMA8453Q, 3-Axis, 10-bit/8-bit Digital Accelerometer 16-LEAD QFN
+$ENDCMP
+#
+$CMP SPU0410HR5H-1
+D MEMS MICROPHONE
+$ENDCMP
+#
+$CMP TSL4531
+D DIGITAL AMBIENT LIGHT SENSOR (lite-on LTR-329ALS-01)
+$ENDCMP
+#
+$CMP TSL45315
+D DIGITAL AMBIENT LIGHT SENSOR (lite-on LTR-329ALS-01)
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,92 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D 60V Single N−Channel, SOT−23
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP BSP75N
+D Smart Lowside Power Switch 42V 1A current limit
+$ENDCMP
+#
+$CMP BSS138DW
+D BSS138DW, DUAL N-CHANNEL MOSFET 50V IDS 0.2A 
+K Dual  N-Channel MOSFET
+$ENDCMP
+#
+$CMP BSS8402DW
+D BSS8402DW COMPLEMENTARY MOSFET PAIR - 50V IDS 0.115a
+K Dual N-Channel P-Channel MOSFET
+$ENDCMP
+#
+$CMP BSS84DW
+D BSS84DW - Dual P-channel Mosfet 50V IDS 0.13A 
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP BTS6133D
+D Highside power switch - 8A nominal - 38V max.
+$ENDCMP
+#
+$CMP DTC124X
+D Digital Transistors (BRT) R1 = 22 k, R2 = 47 k
+$ENDCMP
+#
+$CMP FDFMA2P857
+D −20 V, -3 A, Single P−Channel MOSFET & SCHOTTKY DIODE
+$ENDCMP
+#
+$CMP FDN352AP
+D −30 V, -1.3 A, Single P−Channel, SOT−23
+$ENDCMP
+#
+$CMP FDV303N
+D IRF9540N, -100V Vds, -23A Id, HEXFET P-Channel MOSFET, TO-220
+K HEXFET P-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf9540n.pdf
+$ENDCMP
+#
+$CMP HBDM60V600W
+D Transistor PNP NPN 60V pair in SOT-363 
+K pnp transistor
+$ENDCMP
+#
+$CMP NTF2955
+D NTF2955 −60 V, −2.6 A, 145 mOhm, Single P−Channel SOT−223
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP NTF3055L108
+D 3.0 A, 60 V, Logic Level, N−Channel SOT223
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP NTR4101
+D −20 V, 3.2 A, Single P−Channel, SOT−23
+$ENDCMP
+#
+$CMP NTR4501N
+D 20 V, 3.2 A, Single N−Channel, SOT−23
+K N-Channel MOSFET
+$ENDCMP
+#
+$CMP P-MOSFET
+D Transistor P-MOSFET (general)
+K pmos p-mos p-mosfet transistor
+$ENDCMP
+#
+$CMP SUD50P06-15
+D SUD50P06-15, 60V 50A TO-252
+K P-Channel MOSFET
+$ENDCMP
+#
+$CMP TPS1H100-Q1
+D 40-V, 100-mΩ Single-Channel Smart High-Side Power Switch
+$ENDCMP
+#
+$CMP ZXMP6A17E6
+D 60V P-CHANNEL ENHANCEMENT MODE MOSFET - 3.0A
+K HEXFET P-Channel MOSFET
+$ENDCMP
+#
+#End Doc Library

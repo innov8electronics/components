@@ -1,0 +1,32 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CM_CHOKE
+D Common mode choke
+$ENDCMP
+#
+$CMP DLW21H
+D Common mode choke
+$ENDCMP
+#
+$CMP PIEZO
+D MURATA PKMCS SERIES
+$ENDCMP
+#
+$CMP PSSI2021SAY
+D PSSI2021SAY - Constant current source in SOT353 package
+$ENDCMP
+#
+$CMP PTC
+D VARISTANCE
+K VR  DEV
+$ENDCMP
+#
+$CMP RELAY_30A_12VDC
+D TE - V23086C1001A403 Automotive Relay Micro Relay K 30A
+$ENDCMP
+#
+$CMP ferrite
+D Inductor
+$ENDCMP
+#
+#End Doc Library

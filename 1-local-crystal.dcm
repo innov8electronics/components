@@ -1,0 +1,24 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 16MHZ
+D Crystal 16.000MHz 30ppm -20 +70C 18pF - TXC 7A-16.000MAAJ-T
+$ENDCMP
+#
+$CMP 27.12MHZ
+D Crystal 27.12MHz 30ppm -20 to 70C 12pF - TXC 7A-27.120MAAE-T
+$ENDCMP
+#
+$CMP 32.768KHz
+D Crystal Abracon ABS25 series 32.768KHz
+$ENDCMP
+#
+$CMP 8MHZ
+D Crystal 8MHz 30ppm -20 TO 70C 18pF - TXC 7A-8.000MAAE-T
+$ENDCMP
+#
+$CMP CM2X0C-32_768KHZ
+D Two pin crystal
+K Quartz, Ceramic, Filter, Resonator
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,60 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4541
+D CMOS Programmable Timer
+$ENDCMP
+#
+$CMP 74AVC1T1022-TSSOP10
+D 1-to-4 fan-out buffer
+$ENDCMP
+#
+$CMP CAM_02X15
+D Connector, dual row, 02x30
+K connector
+$ENDCMP
+#
+$CMP CAM_02X30
+D Connector, single row, 01x30
+K connector
+$ENDCMP
+#
+$CMP CONN_01X30
+D Connector, single row, 01x30
+K connector
+$ENDCMP
+#
+$CMP CY7C65632-28
+D  Low Power USB 2.0 Hub Controller 2/4 PORT
+$ENDCMP
+#
+$CMP MCP2210-QFN
+D USB-to-SPI Bridge with GPIO
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22288A.pdf
+$ENDCMP
+#
+$CMP MCP2562
+D High-Speed CAN Transceiver VIO Supply Pin to Interface Directly to 1.8V to 5.5V I/O
+$ENDCMP
+#
+$CMP TLC59281
+D 16-Channel, Constant-Current LED Driver QFN-24
+$ENDCMP
+#
+$CMP TPS2061C
+D 1A CurrentLimited, Power-Distribution Switch
+$ENDCMP
+#
+$CMP TXB0108-DQS
+D 8-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and 15kV ESD
+$ENDCMP
+#
+$CMP TXB0108-DSGBA
+D 8-Bit Bidirectional Voltage-Level Translator with Auto-Direction Sensing and 15kV ESD
+$ENDCMP
+#
+$CMP USB2514B
+D USB 2.0 Hi-Speed Hub Controller
+F http://ww1.microchip.com/downloads/en/DeviceDoc/00001692C.pdf
+$ENDCMP
+#
+#End Doc Library

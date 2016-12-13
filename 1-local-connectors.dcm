@@ -1,0 +1,46 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_EN3-4P
+D EN3P8MRAPCBN
+$ENDCMP
+#
+$CMP CONN_EN3-8P
+D EN3P8MRAPCBN
+$ENDCMP
+#
+$CMP CONN_Iridium-9603
+D Connector 02x10
+$ENDCMP
+#
+$CMP MMCX
+D MMCX RF connector
+$ENDCMP
+#
+$CMP RJ45_MAG_LED_RA
+D RJ45 with transformer + leds WURTH
+K RJ45
+$ENDCMP
+#
+$CMP SODIMM-200
+D Connector, double row, 02x40
+K connector
+$ENDCMP
+#
+$CMP USB_AB
+D micro/mini connector
+K USB USB_OTG USB_mini USB_micro
+$ENDCMP
+#
+$CMP uSD_Card
+D micro SD Card connector push-pull
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
+$CMP uSD_Card_hinged
+D micro SD Card connector hinged
+K CONN SD
+F http://portal.fciconnect.com/Comergent//fci/drawing/10067847.pdf
+$ENDCMP
+#
+#End Doc Library

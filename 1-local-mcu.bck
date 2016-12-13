@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MCP121
+D Voltage supervisor Open Drain OP with 120mS delay
+$ENDCMP
+#
+#End Doc Library
